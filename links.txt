@@ -1,0 +1,16 @@
+android 	https://www.youtube-nocookie.com/embed/fis26HvvDII                   
+javascript 	https://www.youtube-nocookie.com/embed/SBmSRK3feww                   
+java 	https://www.youtube-nocookie.com/embed/A74TOX803D0                        
+bootstrap 	https://www.youtube-nocookie.com/embed/-qfEOE4vtxE
+angularjs 	https://www.youtube-nocookie.com/embed/3qBXWUpoPHo                    
+reactjs 	https://www.youtube-nocookie.com/embed/bMknfKXIFA8                    
+chart-js 	https://www.youtube-nocookie.com/embed/yD3kXXJTqsc
+Nodejs 	https://www.youtube-nocookie.com/embed/Oe421EPjeBE
+vue-js 	https://www.youtube-nocookie.com/embed/FXpIoQ_rT_c
+maven 	https://www.youtube-nocookie.com/embed/p0LPfK_oNCM
+perl 	https://www.youtube-nocookie.com/embed/V-S7dH8Orwk
+mongodb 	https://www.youtube-nocookie.com/embed/8eJJe4Slnik
+c++ 	https://www.youtube-nocookie.com/embed/vLnPwxZdW4Y
+php 	https://www.youtube-nocookie.com/embed/OK_JCtrrv-c
+web-ui 	https://www.youtube-nocookie.com/embed/spGDKJNq-EE
+jade 	https://www.youtube-nocookie.com/embed/56Tpozmoafc
